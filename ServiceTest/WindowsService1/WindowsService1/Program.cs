@@ -13,7 +13,7 @@ namespace WindowsService1
 		private static string log;
 
 		/// <summary>
-		/// アプリケーションのメイン エントリ ポイントです。
+		/// The main entry point for the application.
 		/// </summary>
 		static void Main()
 		{

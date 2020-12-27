@@ -1,0 +1,8 @@
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.CoreCompileInputs.cache
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\obj\Debug\WindowsService2.TestService.resources
+Z:\Dev\ServiceTest\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.cache
