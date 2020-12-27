@@ -1,0 +1,6 @@
+Z:\Dev\DeleteDir\DeleteDir\bin\Release\DeleteDir.exe.config
+Z:\Dev\DeleteDir\DeleteDir\bin\Release\DeleteDir.exe
+Z:\Dev\DeleteDir\DeleteDir\bin\Release\DeleteDir.pdb
+Z:\Dev\DeleteDir\DeleteDir\obj\Release\DeleteDir.csproj.CoreCompileInputs.cache
+Z:\Dev\DeleteDir\DeleteDir\obj\Release\DeleteDir.exe
+Z:\Dev\DeleteDir\DeleteDir\obj\Release\DeleteDir.pdb

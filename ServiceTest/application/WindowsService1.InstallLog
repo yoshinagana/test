@@ -1,0 +1,26 @@
+﻿アセンブリ 'Z:\Dev\ServiceTest\application\WindowsService1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = Z:\Dev\ServiceTest\application\WindowsService1.InstallLog
+   assemblypath = Z:\Dev\ServiceTest\application\WindowsService1.exe
+アセンブリ 'Z:\Dev\ServiceTest\application\WindowsService1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = Z:\Dev\ServiceTest\application\WindowsService1.InstallLog
+   assemblypath = Z:\Dev\ServiceTest\application\WindowsService1.exe
+System.ServiceProcess.ServiceProcessInstaller インストーラーのロールバック段階で例外が発生しました。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+インストールのロールバック段階で例外が発生しました。この例外は無視され、ロールバックは続行します。ただし、ロールバック完了後、コンピューターは完全に元の状態に戻らない可能性があります。
+アセンブリ 'Z:\Dev\ServiceTest\application\WindowsService1.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = Z:\Dev\ServiceTest\application\WindowsService1.InstallLog
+   assemblypath = Z:\Dev\ServiceTest\application\WindowsService1.exe
+アセンブリ 'Z:\Dev\ServiceTest\application\WindowsService1.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = Z:\Dev\ServiceTest\application\WindowsService1.InstallLog
+   assemblypath = Z:\Dev\ServiceTest\application\WindowsService1.exe
+System.ServiceProcess.ServiceProcessInstaller インストーラーのロールバック段階で例外が発生しました。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+インストールのロールバック段階で例外が発生しました。この例外は無視され、ロールバックは続行します。ただし、ロールバック完了後、コンピューターは完全に元の状態に戻らない可能性があります。

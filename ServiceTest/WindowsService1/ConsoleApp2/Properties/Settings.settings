@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApp2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Z:\Dev\ServiceTest</Value>
+    </Setting>
+    <Setting Name="InputDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="OutputDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Log" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Log.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

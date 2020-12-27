@@ -1,0 +1,34 @@
+﻿
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+Z:\Dev\ServiceTest\application\WindowsService1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは Z:\Dev\ServiceTest\application\WindowsService1.InstallLog にあります。
+
+インストール段階で例外が発生しました。
+System.ComponentModel.Win32Exception: アクセスが拒否されました。
+
+インストールのロールバックを開始しています。
+Z:\Dev\ServiceTest\application\WindowsService1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは Z:\Dev\ServiceTest\application\WindowsService1.InstallLog にあります。
+
+ロールバックの段階が正常に完了しました。
+
+トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+Z:\Dev\ServiceTest\application\WindowsService1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは Z:\Dev\ServiceTest\application\WindowsService1.InstallLog にあります。
+
+インストール段階で例外が発生しました。
+System.ComponentModel.Win32Exception: アクセスが拒否されました。
+
+インストールのロールバックを開始しています。
+Z:\Dev\ServiceTest\application\WindowsService1.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは Z:\Dev\ServiceTest\application\WindowsService1.InstallLog にあります。
+
+ロールバックの段階が正常に完了しました。
+
+トランザクション インストールが完了しました。
